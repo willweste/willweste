@@ -2,7 +2,7 @@
 
 🚀 Check out my portfolio [willweste.com](https://willweste.com)
 
-I am William Westerkamp a Full Stack Web Developer and a student at James Madison University. I spend most of my time working on new and innovative projects.
+I am William Westerkamp an aspiring Full Stack Web Developer and a student at James Madison University. I spend most of my time working on new and innovative projects.
 
 :mailbox: Reach out to me!
 
