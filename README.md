@@ -19,9 +19,12 @@ I am William Westerkamp a Full Stack Web Developer and a student at James Madiso
 
 #### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)&nbsp;&nbsp;&nbsp;
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)&nbsp;&nbsp;&nbsp;
+[![PHP Badge](https://img.shields.io/badge/-PHP-8892bf?style=for-the-badge&labelColor=black&logo=php&logoColor=8892bf)](#)&nbsp;&nbsp;&nbsp;
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)&nbsp;&nbsp;&nbsp;
+[![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&labelColor=black&logo=python&logoColor=ffd343)](#)
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![PHP Badge](https://img.shields.io/badge/-PHP-8892bf?style=for-the-badge&labelColor=black&logo=php&logoColor=8892bf)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&labelColor=black&logo=python&logoColor=ffd343)](#)
 
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/willweste/willweste/blob/main/resumes/resume.pdf)
