@@ -16,7 +16,6 @@ I am William Westerkamp a Full Stack Web Developer and a student at James Madiso
 - :computer: I try to contribute weekly to open-source projects I am passionate about
 - 🤔 I’m looking to work on new groundbreaking technologies.
 - 📫 How to reach me: willweste74@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Top Technologies
 
