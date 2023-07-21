@@ -13,8 +13,7 @@ I am William Westerkamp an aspiring Full Stack Web Developer and a student at Ja
 ### What I currently Do
 
 - 🔭 I’m currently working at CTPI and developing a LMS called Professional Steps.
-- 🔋 As the founder of Weste Solutions, I provide tailored digital solutions to businesses, enhancing their online presence and user engagement.
-- :computer: I try to contribute weekly to open-source projects I am passionate about.
+- 🔋 As the founder of Weste Solutions, a freelance software company, I specialize in delivering tailored digital solutions that enhance businesses' online presence and improve user engagement.
 - 🤔 I’m looking to work on new groundbreaking technologies.
 - 📫 How to reach me: willweste74@gmail.com.
 
@@ -30,6 +29,7 @@ I am William Westerkamp an aspiring Full Stack Web Developer and a student at Ja
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/willweste/willweste/blob/main/resumes/resume.pdf)
 - :email: willweste74@gmail.com
+- 📋: westesolutions.com
 
 [//]: # ()
 [//]: # (<details>)
