@@ -29,7 +29,7 @@ I am William Westerkamp an aspiring Full Stack Web Developer and a student at Ja
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/willweste/willweste/blob/main/resumes/resume.pdf)
 - :email: willweste74@gmail.com
-- :clipboard: westesolutions.com
+- :clipboard: [My Freelance Software Company](https://westesolutions.com)
 
 [//]: # ()
 [//]: # (<details>)
