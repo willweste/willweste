@@ -13,6 +13,7 @@ I am William Westerkamp an aspiring Full Stack Web Developer and a student at Ja
 ### What I currently Do
 
 - 🔭 I’m currently working at CTPI and developing a LMS called Professional Steps.
+- 📲 Created and improving a patent pending software solution that prevents drunk driving.
 - 🔋 As the founder of Weste Solutions, a freelance software company, I specialize in delivering tailored digital solutions that enhance businesses' online presence and improve user engagement.
 - 🤔 I’m looking to work on new groundbreaking technologies.
 - 📫 How to reach me: willweste74@gmail.com.
