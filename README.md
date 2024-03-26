@@ -1,6 +1,5 @@
 ## Hi I'm William <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-🚀 Check out my portfolio [willweste.com](https://willweste.com)
 
 I am William Westerkamp an aspiring Software Engineer and a student at James Madison University. I spend most of my time working on new and innovative projects.
 
@@ -12,9 +11,15 @@ I am William Westerkamp an aspiring Software Engineer and a student at James Mad
 
 ### What I currently Do
 
-- 🔭 I’m currently working at CTPI and developing a LMS called Professional Steps.
-- 📲 Created and improving a patent pending software solution that prevents drunk driving.
-- 🔋 As the founder of Weste Solutions, a freelance software company, I specialize in delivering tailored digital solutions that enhance businesses' online presence and improve user engagement.
+- 🔭 I’m currently working at Chameleon Technology Partners and will be interning at Booz Allen Hamilton as a SWE this Summer.
+
+### Things I Have Worked On
+ 
+- Worked on improving a patent pending software solution that prevents drunk driving.
+- Created a facial biometric authentation system utilizing AWS Services and JWT.
+- Developed an IoT Security System with real time notifications and facial recognition.
+
+### -----------------------
 - 🤔 I’m looking to work on new groundbreaking technologies.
 - 📫 How to reach me: willweste74@gmail.com.
 
@@ -30,7 +35,6 @@ I am William Westerkamp an aspiring Software Engineer and a student at James Mad
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/willweste/willweste/blob/main/resumes/resume.pdf)
 - :email: willweste74@gmail.com
-- :clipboard: [My Freelance Software Company](https://westesolutions.com)
 
 [//]: # ()
 [//]: # (<details>)
