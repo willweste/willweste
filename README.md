@@ -33,7 +33,7 @@ I am William Westerkamp an aspiring Software Engineer and a student at James Mad
 
 
 #### Business
-- :paperclip: [My Resume/CV](Resume 2024-2025.pdf)
+- :paperclip: [My Resume/CV](https://github.com/willweste/willweste/blob/main/Resume%202024-2025.pdf)
 - :email: willweste74@gmail.com
 
 [//]: # ()
