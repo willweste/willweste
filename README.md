@@ -5,7 +5,7 @@ I am William Westerkamp an aspiring Software Engineer and a student at James Mad
 
 :mailbox: Reach out to me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-William-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-westerkamp-341594252/) [![Mail Badge](https://img.shields.io/badge/-willweste74-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:willweste74@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-William-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-w-341594252/) [![Mail Badge](https://img.shields.io/badge/-willweste74-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:willweste74@gmail.com)
 
 <!-- TODO: Add last video link -->
 
