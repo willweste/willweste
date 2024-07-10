@@ -11,11 +11,11 @@ I am William Westerkamp an aspiring Software Engineer and a student at James Mad
 
 ### What I currently Do
 
-- 🔭 I’m currently working at Chameleon Technology Partners and will be interning at Booz Allen Hamilton as a SWE this Summer.
+- 🔭 I’m currently working at Booz Allen Hamilton as a SWE this Summer.
 
 ### Things I Have Worked On
  
-- Worked on improving a patent pending software solution that prevents drunk driving.
+- Worked on improving a provisional patent application software solution that prevents drunk driving.
 - Created a facial biometric authentation system utilizing AWS Services and JWT.
 - Developed an IoT Security System with real time notifications and facial recognition.
 
