@@ -11,7 +11,8 @@ I am William Westerkamp an aspiring Software Engineer and a student at James Mad
 
 ### What I currently Do
 
-- 🔭 I’m currently working at Booz Allen Hamilton as a SWE this Summer.
+- 🔭 Completing my senior year of college and working two internships in AI/ML and Cloud Development.
+- 🔭 Planning to work at Booz Allen Hamilton as a Software Engineer post graduation.
 
 ### Things I Have Worked On
  
